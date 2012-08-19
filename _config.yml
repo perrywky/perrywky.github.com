@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://perrywky.github.com
+author: 彭琪
+pygments: true
+paginate: 12
